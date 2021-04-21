@@ -1,4 +1,5 @@
 def solution(n, m):
+    # 최대공약수
     answer = []
     a = n
     b = m
@@ -7,6 +8,8 @@ def solution(n, m):
         print(b)
     answer.append(a)
     lcm = a
+    
+    # 최소공배수
     answer.append(n*m // lcm )
     return answer
 
