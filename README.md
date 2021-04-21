@@ -10,4 +10,4 @@
     - [level1](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 
 ----
-# blog : (블로그로 이동)[https://velog.io/@eagle5424]
+- blog : [블로그](https://velog.io/@eagle5424)
