@@ -8,14 +8,6 @@ def solution(n):
             answer -= set(range(2*i, n+1, i))
     return len(answer)
     
-    count = 0
-    for num in n:
-        for i in num:
-            if num % i == 0:
-                break
-            count += 1
-    return count
-                
 
 
 
